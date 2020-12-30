@@ -10,7 +10,9 @@ t = 0
 while t <= 5:
 
     f = round(random.uniform(5, 10), 1) 
+    
     list.append(mylist, f)
+    
     t = t + 1 
 
 nmax = max(mylist)
