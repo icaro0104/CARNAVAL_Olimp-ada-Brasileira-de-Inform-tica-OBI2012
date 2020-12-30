@@ -1,4 +1,4 @@
-# CARNAVAL_Olimp-ada-Brasileira-de-Inform-tica-OBI2012
+# CARNAVAL_Olimpiada-Brasileira-de-Informatica-OBI2012
  Informática – OBI2012  Updated 5 minutes ago Questão CARNAVAL OBI 2012 Modalidade Programação • Nível 1, Fase 2
 import random
 import math
